@@ -28,8 +28,9 @@
     height: 100px;
   }
   
-  .img-container {
-    background-image: url("img/pf.jpg")
+  .container-img-pf {
+    background: url("img/pf.jpg");
+    width: 100%;
   }
   
  
