@@ -4,3 +4,15 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+.navbar {
+    background-color: black;
+    width: 100%;
+}
+
+
+
+.img-container {
+    background-image: url("img/pf.jpg");
+    width: 100%;
+}
