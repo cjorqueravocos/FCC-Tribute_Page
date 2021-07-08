@@ -76,7 +76,6 @@
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
   }
@@ -87,3 +86,10 @@
       display: block;
       margin-bottom: 20px;
     }
+
+.column card member-img-1 {
+    background-image: url("img/syd_barrett.jpg");
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
