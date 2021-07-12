@@ -45,7 +45,7 @@ img {
 }
 
 .row {
-    margin: 0 -5px;
+    margin: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -125,4 +125,14 @@ iframe {
   display: block;
   text-align: center;
   padding: 20px;
+}
+
+.images-container {
+width: 80%;
+}
+
+.band-images {
+  width: 40%;
+
+
 }
