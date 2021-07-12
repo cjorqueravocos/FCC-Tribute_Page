@@ -49,6 +49,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom:50px;
 }
 
 .column {
@@ -97,6 +98,10 @@ img {
   padding: 1em;
 }
 
+.discography {
+  background:rgba(255,255,255, .1);
+
+}
 .discography-title {
   display: flex;
   margin: 20px;
@@ -109,6 +114,7 @@ img {
   margin-top: 10px;
   display: inline-block;
   text-align: center;
+
 }
 
 iframe {
