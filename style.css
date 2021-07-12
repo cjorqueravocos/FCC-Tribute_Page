@@ -120,3 +120,9 @@ img {
 iframe {
   margin: 10px 0px 10px;
 }
+
+.pompeii {
+  display: block;
+  text-align: center;
+  padding: 20px;
+}
