@@ -99,8 +99,8 @@ img {
 }
 
 .discography {
-  background:rgba(255,255,255, .1);
-
+  background: rgb(29,29,29);
+  background: linear-gradient(0deg, rgba(29,29,29,1) 0%, rgba(42,56,56,1) 15%, rgba(55,75,75,1) 48%, rgba(39,54,54,1) 84%, rgba(29,29,29,1) 100%);
 }
 .discography-title {
   display: flex;
