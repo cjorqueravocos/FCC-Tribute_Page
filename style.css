@@ -99,7 +99,19 @@ img {
       width: 70%;
       display: block;
       margin-bottom: 20px;
-    }}
+    }
+    .members-title {
+      font-size: 18px;
+    }
+    .discography-title {
+      font-size: 18px;
+    }
+    
+    span {
+      margin: auto;
+      font-size: 8px;
+    }
+  }
 
 .member-img {
   padding: 1em;
