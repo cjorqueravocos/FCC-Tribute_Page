@@ -175,6 +175,9 @@ iframe {
     display: block;
     margin-bottom: 20px;
   }
+  .pf {
+    width: 280%;
+  }
   span {
     margin: auto;
     font-size: 12px;
@@ -183,6 +186,9 @@ iframe {
     grid-template-columns: repeat(2, 1fr);
   }
   .gallery-items:nth-child(7) {
+    grid-column-start: span 2;
+  }
+  .gallery-items:nth-child(9) {
     grid-column-start: span 2;
   }
 }
