@@ -49,18 +49,6 @@ img {
     height: 100vh;
   }
 
-.pf {
-  object-fit: cover;
-  object-position: top;
-}
-
-.logo {
-  width:15%;
-}
-
-.pf {
-  object-position: cover;
-}
 .members {
   margin-bottom: 40px;
 }
